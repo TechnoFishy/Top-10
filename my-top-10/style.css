@@ -1,0 +1,18 @@
+.lvl-div{
+    display: flex;
+    justify-content: center;
+}
+
+.yt-btn{
+    float: right; 
+    margin-top: -8.5em;
+    margin-right: 2em;
+    width: 18%;
+}
+
+.yt-btn-prog{
+    float: right; 
+    margin-top: -5.8em;
+    margin-right: 2em;
+    width: 16%;
+}
